@@ -5,12 +5,12 @@
 - Replace the placeholder image
 - Improve overall layout readability
 
-##Diagram
-![FIXME](FIXME.jpg)
+## Diagram
+![FIXME](../img/26_test_image.png)
 
 * Bullet one
-*bullet two (broken)
+* bullet two (broken)
 Another line with no spacing
 
-##Conclusion
+## Conclusion
 No spacing above.
