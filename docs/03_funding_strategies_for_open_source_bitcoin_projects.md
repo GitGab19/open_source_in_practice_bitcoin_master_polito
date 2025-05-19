@@ -1,2 +1,4 @@
 # Funding Strategies for Open Source Bitcoin Projects
 Bitcoin open source projects require funding for their development and maintenance. An effective strategy includes multiple channels of support, such as individual contributions, donations, and sponsorships. More popular projects can also obtain funds through crowdfunding and partnerships with companies.
+To increase visibility and support, developers must maintain a strong online presence, participating in conferences and discussion communities. Social media platforms can be used to promote projects and interact with supporters. 
+The use of tools like GitHub and contribution management platforms can make it easier to process donations and manage funds.
