@@ -1,5 +1,3 @@
-# Understanding Bitcoin BIPs
+# Comprendere le BIPs di Bitcoin
 
-📝 **Instruction**: This text is in English and should be translated into Italian.
-
-Bitcoin Improvement Proposals (BIPs) are design documents that introduce changes or features to the Bitcoin protocol. They provide technical background, motivation, and implementation details for community review.
+Le Bitcoin Improvement Proposals (BIPs), cioè le proposte di miglioramento di Bitcoin sono dei documenti di progettazione che introducono modifiche o funzionalità al protocollo di Bitcoin. Forniscono delle informazioni di base, motivazioni e dettagli di implementazione per la revisione da parte della comunità.
