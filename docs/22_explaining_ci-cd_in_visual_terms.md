@@ -6,7 +6,7 @@
 - Improve overall layout readability
 
 ## Diagram
-![FIXME](FIXME.png)
+![CI/CD](../img/FIXME.png)
 
 * Bullet one
 * bullet two
