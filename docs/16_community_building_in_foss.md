@@ -1,5 +1,2 @@
 # Community Building in FOSS
-
-📝 **Instruction**: This text is in English and should be translated into Italian.
-
-Fostering a strong community is key to open source success. Maintainers and contributors collaborate through issue discussions, documentation, events, and mentorship.
+Promuovere una comunità forte è la chiave del successo dell'open source. I manutentori e i collaboratori collaborano attraverso discussioni sui problemi, documentazione, eventi e tutoraggio.
