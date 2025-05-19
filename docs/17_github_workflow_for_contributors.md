@@ -9,7 +9,8 @@
 ![FIXME](FIXME.jpg)
 
 * Bullet one
-*bullet two (broken)
+* Bullet two
+ 
 Another line with no spacing
 
 ##Conclusion
